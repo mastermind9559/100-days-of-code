@@ -7,3 +7,5 @@
 ### Day 2: January 7, Thursday
 
 **Today's Progress**: I installed the diffmerge tool and did some coding exercises. I also started learning about git and github.
+
+### Day 3: Studied method overloading. And I worked on different calculators. The calculator exercises were very challenging 
